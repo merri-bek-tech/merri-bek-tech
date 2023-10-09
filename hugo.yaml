@@ -47,6 +47,9 @@ params:
     displayTitle: true
     displayLogo: false
 
+  page:
+    width: normal
+
   footer:
     displayCopyright: false
     displayPoweredBy: true
