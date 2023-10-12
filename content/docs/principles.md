@@ -1,6 +1,7 @@
 ---
 title: Our Principles
 weight: 4
+next: /docs/getting-involved
 ---
 
 Principals describe *how* we live our values. Each principle helps inform specific actions we might take in order to be the sort of organisation we want. Our principles are liable to change more often than our values, because we might find they aren't helping us achieve the thing we value and thus they need tweaking.

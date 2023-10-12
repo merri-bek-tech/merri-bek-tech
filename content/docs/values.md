@@ -1,7 +1,7 @@
 ---
 title: Our Values
 weight: 3
-prev: docs/services/services-for-individuals
+prev: docs/services/for-individuals
 ---
 
 We are a value driven organisation. We try to always act inline with at least one of our values, and never act in opposition to any of them.

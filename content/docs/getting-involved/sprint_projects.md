@@ -1,32 +1,7 @@
 ---
-title: Volunteering
-weight: 5
+title: Sprint Projects
+weight: 2
 ---
-
-Merri-bek Tech is a great place to volunteer to build valuable skills in server administration, while contributing meaningfully to local community groups.
-
-## Who can volunteer?
-
-Volunteering is open to anyone aged 14 and up, regardless of whether you have any existing skills with server administration or even using computers. If you are an experienced IT professional, your volunteering is also very welcome, and could include a component of mentoring others if you wish.
-
-Merri-bek tech centers it's activities within Merri-bek. You can volunteer if you don't live in Merri-bek, providing you live within Victoria, Australia.
-
-## What commitment is involved?
-
-Volunteering occurs in three-month long "sprints", with a cohort of other volunteers there for the same period. This enables us to spend a bit of time setting context, give you space to work on an interesting project to improve technology in Merri-bek, and celebrate at the end.
-
-We'd like volunteers to hold off volunteering if they don't feel comfortable making a best-effort to be involved for three months. Of course in practice, life changes happen, and it's ok to pull out mid-cohort if necessary.
-
-During your three months, volunteers can engage with the organisation by:
-
-* An in-person induction meeting at the start of the sprint
-* An online chat channel to for ongoing questions and support
-* An optional weekly online call with the current cohort of volunteers and mentors.
-* An in-person showcase and celebration at the end of the sprint
-
-In addition to that, we expect that you'll want to spend some time on a project related to technology in Merri-bek. How much time you invest in that is up to you, but we'd recommend at least a couple of hours per week.
-
-## Sprint projects
 
 You'll work on a project for the bulk of your three month sprint, either alone or in a group. If you're brand new to this area, your project might be very learning focussed, and have an output like a write-up to make things easier for the next person with this learning goal.
 
@@ -62,4 +37,4 @@ Stewardship moves at a slower pace than building things. Volunteering as a stewa
 
 Members decide how Merri-bek Tech runs. Anyone who has completed a three-month sprint in good standing (has not acted against our code of conduct) is eligible to take up membership, providing they do so within six months. Members are also eligible to take on governance roles.
 
-See: Members and governance
+See: [Membership](/docs/getting-involved/membership)
