@@ -1,6 +1,6 @@
 ---
 title: What We Do
-next: docs/what-we-do
+next: docs/services
 weight: 1
 ---
 

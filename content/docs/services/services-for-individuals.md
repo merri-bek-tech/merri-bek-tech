@@ -1,6 +1,7 @@
 ---
 title: Services for Individuals
 type: docs
+next: docs/values
 weight: 2
 ---
 

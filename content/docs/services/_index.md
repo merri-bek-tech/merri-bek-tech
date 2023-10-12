@@ -2,7 +2,7 @@
 title: Services
 type: docs
 prev: docs/
-next: docs/folder/leaf
+next: docs/services/services-for-community-groups
 sidebar:
   open: true
 weight: 2
