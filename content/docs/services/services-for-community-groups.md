@@ -2,6 +2,7 @@
 title: Services for Community Groups
 type: docs
 prev: docs/services/
+weight: 1
 ---
 
 ## Managed Software
