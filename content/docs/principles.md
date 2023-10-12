@@ -8,7 +8,7 @@ Principals describe *how* we live our values. Each principle helps inform specif
 ## Local First
 We have the radical aspiration that our systems should work even in the absence of global internet infrastructure. This means that while we may use cloud services, we intend them to be backups and caches, with our primary systems all being physically within Merri-bek.
 
-## Eat Out Own Dogfood
+## Eat Our Own Dogfood
 We use own own systems to run our organisation.
 
 ## Open Ecosystems
