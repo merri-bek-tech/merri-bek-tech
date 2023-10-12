@@ -3,8 +3,6 @@ title: Services
 type: docs
 prev: docs/
 next: docs/services/for-community-groups
-sidebar:
-  open: true
 weight: 2
 ---
 
