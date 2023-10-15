@@ -24,6 +24,6 @@ If you're an individual in Merri-bek, then perhaps you're looking for local repl
 Yes, we are accepting volunteers, both skilled, and wanting to learn. Volunteering is also out pathway to membership, which lets you join us in shaping this organisation.
 
 {{< cards >}}
-  {{< card link="/docs/services/volunteering" title="See: Volunteering" >}}
-  {{< card link="/docs/services/membership" title="See: Membership" >}}
+  {{< card link="/docs/getting-involved/volunteering" title="See: Volunteering" >}}
+  {{< card link="/docs/getting-involved/membership" title="See: Membership" >}}
 {{< /cards >}}
