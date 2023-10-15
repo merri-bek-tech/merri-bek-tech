@@ -37,10 +37,15 @@ layout: home
     link="docs/getting-involved/volunteering"
     subtitle="A three month volunteer program to build technical skills, and support local community."
   >}}
-    {{< card
+  {{< card
     title="Explore our Values"
     link="docs/values"
     subtitle="We're a values driven organisation building local resilience for people and community."
+  >}}
+  {{< card
+    title="Solar Powered Racks"
+    link="/docs/solar-servers/"
+    subtitle="We're looking for homes in Merri-bek to place solar powered server infrastructure. Drop us a line if you can help."
   >}}
 {{< /cards >}}
 
