@@ -20,9 +20,9 @@ We'd like volunteers to hold off volunteering if they don't feel comfortable mak
 
 During your three months, volunteers can engage with the organisation by:
 
-* An in-person induction meeting at the start of the sprint
-* An online chat channel to for ongoing questions and support
+* An in-person induction meeting at the start of the sprint.
+* An online chat channel for ongoing questions and support.
 * An optional weekly online call with the current cohort of volunteers and mentors.
-* An in-person showcase and celebration at the end of the sprint
+* An in-person showcase and celebration at the end of the sprint.
 
 In addition to that, we expect that you'll want to spend some time on a project related to technology in Merri-bek. How much time you invest in that is up to you, but we'd recommend at least a couple of hours per week.
