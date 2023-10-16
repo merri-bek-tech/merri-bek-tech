@@ -3,16 +3,15 @@ title: Solar Servers
 prev: docs/getting-involved/membership
 weight: 6
 ---
-Our vision is to have solar powered server racks at several community facilities around Merri-bek. That means our software services are truly local, and more resilient in the face climate disasters.
+Our vision is to have solar-powered server racks at several community facilities around Merri-bek. That means our software services are truly local, and more resilient in the face climate disasters.
 
-## What do we need?
-
+## What Do We Need?
 
 {{% steps %}}
 
-### Location partners
+### Location Partners
 
-We're looking for about three community locations with a good geographic spread across Merri-bek. Ideally these would represent an cross section of Merri-bek community life, including as council, established non-profit, and grass roots activism.
+We're looking for about three community locations with a good geographic spread across Merri-bek. Ideally these would represent an cross-section of Merri-bek community life, including council, an established non-profit, and grass roots activism.
 
 Each of these locations would host a server rack, about the size of a bar fridge, as well as a battery and solar setup (or they would already have their own).
 
