@@ -25,7 +25,7 @@ layout: home
   >}}
   {{< hextra/feature-card
     title="More coming soon..."
-    subtitle="Weve just gotten started. Expect more useful local software soon, like [Wordpress](https://wordpress.org/), [Mastadon](https://joinmastodon.org/), [Loomio](https://www.loomio.com/), [Gitlab](https://about.gitlab.com/), [Matrix](https://matrix.org/), and much more."
+    subtitle="Weve just gotten started. Expect more useful local software soon, like [Wordpress](https://wordpress.org/), [Mastodon](https://joinmastodon.org/), [Loomio](https://www.loomio.com/), [Gitlab](https://about.gitlab.com/), [Matrix](https://matrix.org/), and much more."
   >}}
 {{< /hextra/feature-grid >}}
 
