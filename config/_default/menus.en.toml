@@ -61,6 +61,16 @@ url = "get-involved/volunteering"
 parent = "Get Involved"
 
 [[main]]
+weight = 2
+name = "Projects"
+url = "get-involved/projects"
+parent = "Get Involved"
+
+[[main]]
+weight = 3
+name = "Membership"
+url = "get-involved/membership"
+parent = "Get Involved"
 
 # [[main]]
 # weight = 3
