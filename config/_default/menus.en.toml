@@ -1,0 +1,102 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+weight = 1
+name = "Home"
+url = "/"
+
+[[main]]
+weight = 2
+name = "About Us"
+url = "/about/"
+hasChildren = true
+
+[[main]]
+weight = 1
+name = "Vision"
+url = "/about/vision/"
+parent = "About Us"
+
+[[main]]
+weight = 2
+name = "Values"
+url = "/about/values/"
+parent = "About Us"
+
+[[main]]
+weight = 3
+name = "Principles"
+url = "/about/principles/"
+parent = "About Us"
+
+[[main]]
+weight = 3
+name = "Services"
+url = "services/"
+hasChildren = true
+
+[[main]]
+weight = 1
+name = "For community groups"
+url = "/services/for-community-groups/"
+parent = "Services"
+
+[[main]]
+weight = 1
+name = "For individuals"
+url = "/services/for-individuals/"
+parent = "Services"
+
+[[main]]
+weight = 4
+name = "Get Involved"
+url = "get-involved"
+hasChildren = true
+
+[[main]]
+weight = 1
+name = "Volunteering"
+url = "get-involved/volunteering"
+parent = "Get Involved"
+
+[[main]]
+
+# [[main]]
+# weight = 3
+# name = "Pages"
+# hasChildren = true
+
+# [[main]]
+# parent = "Pages"
+# name = "Blog"
+# url = "blog/"
+
+# [[main]]
+# parent = "Pages"
+# name = "Contact"
+# url = "contact/"
+
+# [[main]]
+# parent = "Pages"
+# name = "Authors"
+# url = "authors/"
+
+# [[main]]
+# parent = "Pages"
+# name = "Categories"
+# url = "categories/"
+
+# [[main]]
+# parent = "Pages"
+# name = "404 Page"
+# url = "404/"
+
+
+# footer menu
+# [[footer]]
+# name = "About"
+# url = "about/"
+# weight = 1
+
+
