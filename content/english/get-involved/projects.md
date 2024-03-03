@@ -11,9 +11,9 @@ A project might be something entirely new, like setting up hosting for a softwar
 
 ## Your projects in the community
 
-If your project creates a new offering for Merri-bek tech, we'll initially role it out as a "labs" project, an experimental offering that we may not maintain. That's because although it may be both very useful, and perfectly executed, all new software offerings have maintenance needs and we need to be sure that we can meet them before offering it to the public.
+If your project creates a new offering for Merri-bek Tech, we'll initially role it out as a "Labs" project, an experimental offering that we may not maintain. That's because although it may be both very useful, and perfectly executed, all new software offerings have maintenance needs and we need to be sure that we can meet them before offering it to the public.
 
-We'd love to see your projects in the wild though, so if you build a new labs project, we'll work with you to help create a "go-live plan" for your new offering. This includes figuring out how we'll maintain it, keep it up to date and secure, cover any costs, provide support, and so on. This doesn't have to be on you, but you're welcome to lead this process if you like.
+We'd love to see your projects in the wild though, so if you build a new Labs project, we'll work with you to help create a "go-live plan" for your new offering. This includes figuring out how we'll maintain it, keep it up to date and secure, cover any costs, provide support, and so on. This doesn't have to be on you, but you're welcome to lead this process if you like.
 
 ## What's next after doing a sprint?
 
@@ -29,12 +29,12 @@ Once you've participated in a sprint, you can sign up as a sprint mentor. This i
 
 ### Join a stewardship group
 
-Each offering we provide to the community needs some care and ongoing maintenance. This work is just as valuable as setting up new things. You can help steward particular systems tht you're interested in, including ones built by you, or by others.
+Each offering we provide to the community needs some care and ongoing maintenance. This work is just as valuable as setting up new things. You can help steward particular systems that you're interested in, including ones built by you, or by others.
 
-Stewardship moves at a slower pace than building things. Volunteering as a steward is a six-month engagement (or a best effort at that, life changes happen). It's also hopefully not much work, and we aim to have multiple stewards for all systems so there's no pressure on anyone's shoulders in particular.
+Stewardship moves at a slower pace than building things. Volunteering as a steward is a six-month engagement (or a best-effort at that, life changes happen). It's also hopefully not much work, and we aim to have multiple stewards for all systems so there's no pressure on anyone's shoulders in particular.
 
 ### Become a member
 
-Members decide how Merri-bek Tech runs. Anyone who has completed a three-month sprint in good standing (has not acted against our code of conduct) is eligible to take up membership, providing they do so within six months. Members are also eligible to take on governance roles.
+Members decide how Merri-bek Tech runs. Anyone who has completed a three-month sprint in good standing (i.e. has not acted against our code of conduct) is eligible to take up membership, providing they do so within six months. Members are also eligible to take on governance roles.
 
 See: [Membership](/docs/getting-involved/membership)

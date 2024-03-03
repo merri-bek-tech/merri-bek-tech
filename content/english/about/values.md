@@ -4,7 +4,7 @@ weight: 3
 prev: docs/services/for-individuals
 ---
 
-We are a value driven organisation. We try to always act inline with at least one of our values, and never act in opposition to any of them.
+We are a value driven organisation. We try to always act in-line with at least one of our values, and never act in opposition to any of them.
 
 ## Local Resilience
 Our systems should be well positioned to handle a changing world, including worsening impacts of climate change.
@@ -15,7 +15,7 @@ Our systems should be well positioned to handle a changing world, including wors
 [Race to Zero Carbon](/principles#race-to-zero-carbon)
 
 ## People, Not Profit
-Our technology choices and services to not support systems where people are enmeshed in surveillance-capitalism businesses models of giant corporations.
+Our technology choices and services will not support systems where people are enmeshed in surveillance-capitalism business models of giant corporations.
 
 *Related Principles:*
 [Open Ecosystems](/principles#open-ecosystems),
@@ -30,7 +30,7 @@ We build local skills in our community to manage our infrastructure, and we acti
 [Nazis are for Punching, Not Platforming](/principles#nazis-are-for-punching-not-platforming)
 
 ## Awareness of Privilege
-We are conscious that the tech industry holds a central and privileged role in the economy, and that we are building infrastructure on unceeded aboriginal land.
+We are conscious that the tech industry holds a central and privileged role in the economy, and that we are building infrastructure on unceded aboriginal land.
 
 *Related Principles:*
 [Move Slow, Don't Break Things](/principles#move-slow-dont-break-things),

@@ -21,7 +21,7 @@ We'd like volunteers to hold off volunteering if they don't feel comfortable mak
 During your three months, volunteers can engage with the organisation by:
 
 * An in-person induction meeting at the start of the sprint
-* An online chat channel to for ongoing questions and support
+* An online chat channel for ongoing questions and support
 * An optional weekly online call with the current cohort of volunteers and mentors.
 * An in-person showcase and celebration at the end of the sprint
 
