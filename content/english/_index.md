@@ -7,7 +7,7 @@ banner:
   button:
     enable: false
     label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: ""
 
 # Features
 features:
@@ -31,7 +31,7 @@ features:
     button:
       enable: true
       label: "The big vision"
-      link: "/vision"
+      link: "/about/vision"
 
   - title: "Participatory by design"
     image: "/images/banner2.png"
@@ -44,5 +44,5 @@ features:
     button:
       enable: true
       label: "Volunteer with us"
-      link: "/volunteering"
+      link: "/get-involved/volunteering/"
 ---
