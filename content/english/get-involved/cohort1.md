@@ -20,6 +20,6 @@ As part of this, each volunteer will learn or practice skills including:
 
 All equipment is provided, and help will be available from professionals with decades of experience in the industry.
 
-If you think you'd like to take part, please contact us at volunteering@merri-bek.tech
+If you think you'd like to take part, please contact us at [volunteering@merri-bek.tech](mailto:volunteering@merri-bek.tech)
 
 

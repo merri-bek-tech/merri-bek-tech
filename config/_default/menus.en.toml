@@ -67,6 +67,12 @@ url = "get-involved/cohort1"
 parent = "Get Involved"
 
 [[main]]
+weight = 2
+name = "Paid Coordinator Role"
+url = "get-involved/volunteer_coordinator_role"
+parent = "Get Involved"
+
+[[main]]
 weight = 3
 name = "Projects"
 url = "get-involved/projects"
