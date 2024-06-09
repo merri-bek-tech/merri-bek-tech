@@ -14,7 +14,7 @@ Merri-bek tech centers it's activities within Merri-bek. You can volunteer if yo
 
 ## What commitment is involved?
 
-Volunteering occurs in three-month long "sprints", with a cohort of other volunteers there for the same period. This enables us to spend a bit of time setting context, give you space to work on an interesting project to improve technology in Merri-bek, and celebrate at the end.
+Volunteering occurs in three-month long cohorts with other volunteers there for the same period. This enables us to spend a bit of time setting context, give you space to work on an interesting project to improve technology in Merri-bek, and celebrate at the end.
 
 We'd like volunteers to hold off volunteering if they don't feel comfortable making a best-effort to be involved for three months. Of course in practice, life changes happen, and it's ok to pull out mid-cohort if necessary.
 
@@ -22,7 +22,9 @@ During your three months, volunteers can engage with the organisation by:
 
 * An in-person induction meeting at the start of the sprint
 * An online chat channel for ongoing questions and support
-* An optional weekly online call with the current cohort of volunteers and mentors.
+* A weekly in-person lab time, with some structured lessons and some project time
 * An in-person showcase and celebration at the end of the sprint
 
 In addition to that, we expect that you'll want to spend some time on a project related to technology in Merri-bek. How much time you invest in that is up to you, but we'd recommend at least a couple of hours per week.
+
+If this sounds like you, [read more about our 2024 winter cohort](/get-involved/cohort1).

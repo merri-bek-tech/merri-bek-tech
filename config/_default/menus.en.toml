@@ -62,12 +62,18 @@ parent = "Get Involved"
 
 [[main]]
 weight = 2
+name = "Cohort 1"
+url = "get-involved/cohort1"
+parent = "Get Involved"
+
+[[main]]
+weight = 3
 name = "Projects"
 url = "get-involved/projects"
 parent = "Get Involved"
 
 [[main]]
-weight = 3
+weight = 4
 name = "Membership"
 url = "get-involved/membership"
 parent = "Get Involved"
