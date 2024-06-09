@@ -9,7 +9,7 @@ We're running our [2024 Winter Cohort](/get-involved/cohort1/) of volunteers soo
 * We can find 12 volunteers who have an interest in learning tech skills and building local resilience, but come from a range of background with less access to existing forms of tech education, and;
 * Our volunteers have everything they need to be set up for success with the program.
 
-To achieve this, you'll have roots in local communities in Merri-bek, and be able to contribute ideas and action to promote our volunteer cohort into communities less well represented in tech, possibly including reaching recent migrants, refugees, aboriginal and torres straight islander communities, economically disadvantaged or underemployed people, and other groups who could benefit from this program.
+To achieve this, you'll have roots in local communities in Merri-bek, and be able to contribute ideas and action to promote our volunteer cohort into communities less well represented in tech, possibly including reaching recent migrants, refugees, Aboriginal and Torres Straight Islander communities, economically disadvantaged or underemployed people, and other groups who could benefit from this program.
 
 This is not fundamentally a promotions role though, and it's key to us that our potential and selected volunteers receive good communication from us and have a safe and positive experience with the program. As such, the bulk of your role will be shaping volunteer experience - augmenting the role provided by our technical mentors by handling the bulk of initial communication with new volunteers, providing a safe person to talk to, and proactively ensuring that their needs are met.
 
