@@ -20,6 +20,13 @@ As part of this, each volunteer will learn or practice skills including:
 
 All equipment is provided, and help will be available from professionals with decades of experience in the industry.
 
-If you think you'd like to take part, please contact us at [volunteering@merri-bek.tech](mailto:volunteering@merri-bek.tech)
+Cohort 1 will be held on Thursday evenings, from 6:30pm - 8:30pm
+Commencing on Thursday 22nd August, with the final showcase on Thursday 7th November.
 
+The cohort will be held at:
+Sussex Neighbourhood House
+7 Prospect St, Pascoe Vale
 
+If you think you'd like to take part, please [fill out this form](https://forms.gle/6KbrixvQAwG351K69).
+
+This cohort will take place on the unceeded lands of the Wurundjeri Woi Wurrung people of the Kulin nation.
