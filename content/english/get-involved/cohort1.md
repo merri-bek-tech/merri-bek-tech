@@ -21,7 +21,7 @@ As part of this, each volunteer will learn or practice skills including:
 All equipment is provided, and help will be available from professionals with decades of experience in the industry.
 
 Cohort 1 will be held on Thursday evenings, from 6:30pm - 8:30pm
-Commencing on Thursday 22nd August, with the final showcase on Thursday 7th November.
+Commencing on Thursday 5th September, with the final showcase on Thursday 7th November.
 
 The cohort will be held at:
 Sussex Neighbourhood House
