@@ -30,3 +30,5 @@ Sussex Neighbourhood House
 If you think you'd like to take part, please [fill out this form](https://forms.gle/6KbrixvQAwG351K69).
 
 This cohort will take place on the unceeded lands of the Wurundjeri Woi Wurrung people of the Kulin nation.
+
+The course materials can be found [here](/get-involved/cohort1-materials).
