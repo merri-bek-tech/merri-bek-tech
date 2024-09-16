@@ -23,7 +23,24 @@ date: 2024-09-07T09:59:33+10:00
 
 ## Week 3
 
-#### NGINX Basics
+#### Web basics
+
+[TutorialsPoint Web Basic Concepts](https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm)
+
+#### Nginx basics
+
+[Ubuntu's Nginx tutorial](https://ubuntu.com/tutorials/install-and-configure-nginx#1-overview)
+
+Notes:
+
+```
+http://[your-pi-name]
+```
+
+```
+sudo nano index.html
+sudo nano tutorial
+```
 
 ### Week 4
 
