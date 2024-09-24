@@ -44,6 +44,7 @@ sudo nano tutorial
 
 ### Week 4
 
-#### Local Wikipedia
+#### [Local Wikipedia](/get-involved/wikipedia)
+
 
 
