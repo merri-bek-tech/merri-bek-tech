@@ -7,12 +7,12 @@ The simplest way to mirror Wikipedia is using the [Kiwix tools](https://kiwix.or
 
 #### Getting a snapshot
 
-Downloading one of these snapshots is fairly simple - the Kiwix site [maintains pages with links](https://download.kiwix.org/zim/wikipedia/) to "zim" files for various facets of Wikipedia. They're broken down by language ("en", in the filename), topic-specific (eg [Chemistry](https://download.kiwix.org/zim/wikipedia/wikipedia_en_chemistry_mini_2024-04.zim)) and other variations (options like "mini", "maxi", "nopic" allow us to further control how much data we're willing download.)
+Downloading one of these snapshots is fairly simple - the Kiwix site [maintains pages with links](https://download.kiwix.org/zim/wikipedia/) to "zim" files for various facets of Wikipedia. They're broken down by language ("en", in the filename), topic-specific (eg [Chemistry](https://download.kiwix.org/zim/wikipedia/wikipedia_en_chemistry_mini_2024-06.zim)) and other variations (options like "mini", "maxi", "nopic" allow us to further control how much data we're willing download.)
 
 So to download that Chemistry snapshot, we could use a command like this:
 
 ```
-curl -L https://download.kiwix.org/zim/wikipedia/wikipedia_en_chemistry_mini_2024-04.zim -o wikipedia_en_chemistry_mini_2024-04.zim
+curl -L https://download.kiwix.org/zim/wikipedia/wikipedia_en_chemistry_mini_2024-06.zim -o wikipedia_en_chemistry_mini_2024-06.zim
 ```
 
 (The '-L' flag tells Curl to follow redirects (which the Kiwix links are) and the '-o' allows us to specify the filename for the downloaded file.)
@@ -28,7 +28,7 @@ sudo apt-get install kiwix-tools
 ...and then run the serving app with our snapshot like this:
 
 ```
-kiwix-serve -p 8080 wikipedia_en_chemistry_mini_2024-04.zim
+kiwix-serve -p 8080 wikipedia_en_chemistry_mini_2024-06.zim
 ```
 
 ...which will print out a URL (something like ''http://192.168.1.223:8080/'') where we can view our site.
