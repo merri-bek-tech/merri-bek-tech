@@ -15,7 +15,7 @@ So to download that Chemistry snapshot, we could use a command like this:
 curl -L https://download.kiwix.org/zim/wikipedia/wikipedia_en_chemistry_mini_2024-06.zim -o wikipedia_en_chemistry_mini_2024-06.zim
 ```
 
-(The '-L' flag tells Curl to follow redirects (which the Kiwix links are) and the '-o' allows us to specify the filename for the downloaded file.)
+(The '-L' flag tells Curl to follow redirects from one URL to another (which the Kiwix links are) and the '-o' allows us to specify the filename for the downloaded file.)
 
 #### Serving the snapshot
 
