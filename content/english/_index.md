@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Locally hosted web apps, built by volunteers, powered by renewables"
-  content: "Merri-bek Tech is building local web serving across our neighbourhood in order to provide affordable alternatives to big tech, while improving our local resilience in the face of the climate crisis."
+  content: "Merri-bek Tech is building local web serving across our neighbourhood in order to provide affordable alternatives to big tech, while improving our local resilience in the face of the climate crisis. We're also part of the [LoRes Mesh](https://lores.tech) project."
   image: "/images/banner.png"
   button:
     enable: false
