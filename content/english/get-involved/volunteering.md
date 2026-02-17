@@ -4,27 +4,33 @@ weight: 1
 prev: /docs/getting-involved
 ---
 
-Merri-bek Tech is a great place to volunteer to build valuable skills in server administration, while contributing meaningfully to local community groups.
+We are looking for non-technical and technical volunteers to join us in building green technology and contributing to local community groups. In particular, we are looking for people who can get involved with:.
 
-## Who can volunteer?
+- communicating and collaborating with other non-profit groups
+- coordinating our activities and volunteers
+- contributing to open source software in a range of programming languages
+- maintaining CoopCloud recipes for deploying apps using docker compose
+- helping us prototype local mesh network using LoRa and similar technologies
+- helping us test technical approaches
+- writing documentation accessible to our broader community
 
-Volunteering is open to anyone aged 14 and up, regardless of whether you have any existing skills with server administration or even using computers. If you are an experienced IT professional, your volunteering is also very welcome, and could include a component of mentoring others if you wish.
+In future we will also need help with:
 
-Merri-bek tech centers it's activities within Merri-bek. You can volunteer if you don't live in Merri-bek, providing you live within Victoria, Australia.
+- training and involving the wider community
+- community-led decision-making and co-design
 
-## What commitment is involved?
+## Who can volunteer
 
-Volunteering occurs in three-month long cohorts with other volunteers there for the same period. This enables us to spend a bit of time setting context, give you space to work on an interesting project to improve technology in Merri-bek, and celebrate at the end.
+Volunteering is open to anyone aged 14 and up, regardless of whether you have any skills with computers. Our activities are centred on Merri-bek, but volunteers can live anywhere in Victoria, Australia.
+You might already have skills in one or more of the following areas, or you might be keen to build them by volunteering with us:
 
-We'd like volunteers to hold off volunteering if they don't feel comfortable making a best-effort to be involved for three months. Of course in practice, life changes happen, and it's ok to pull out mid-cohort if necessary.
+- organising community groups or volunteers
+- participatory decision-making
+- programming in Rust, Typescript, or Go
+- networking and IT infrastructure
 
-During your three months, volunteers can engage with the organisation by:
+We hope volunteers will join us for at least 6 months.
 
-* An in-person induction meeting at the start of the sprint
-* An online chat channel for ongoing questions and support
-* A weekly in-person lab time, with some structured lessons and some project time
-* An in-person showcase and celebration at the end of the sprint
+## Learn more
 
-In addition to that, we expect that you'll want to spend some time on a project related to technology in Merri-bek. How much time you invest in that is up to you, but we'd recommend at least a couple of hours per week.
-
-If this sounds like you, [read more about our 2024 winter cohort](/get-involved/cohort1).
+To learn more, please send us an email at membership@merri-bek.tech with information about how you would like to be involved, what skills you'd like to use or build, and your availability.

@@ -60,6 +60,18 @@ name = "Volunteering"
 url = "get-involved/volunteering"
 parent = "Get Involved"
 
+[[main]]
+weight = 2
+name = "Solarpunk Meetup"
+url = "get-involved/solarpunk-meetup"
+parent = "Get Involved"
+
+[[main]]
+weight = 3
+name = "Community organisations"
+url = "get-involved/community-organisations"
+parent = "Get Involved"
+
 # [[main]]
 # weight = 2
 # name = "Projects"
