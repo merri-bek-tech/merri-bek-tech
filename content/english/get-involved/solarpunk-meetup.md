@@ -11,7 +11,7 @@ In 2026, this will be held on the third Wednesday of each month:
 - [18 February 2026](https://www.meetup.com/en-au/merri-bek-tech/events/313073832/)
 - [18 March 2026](https://www.meetup.com/en-au/merri-bek-tech/events/313348997/)
 - [15 April 2026](https://www.meetup.com/en-au/merri-bek-tech/events/314075718/)
-- [20 May 2026](https://www.meetup.com/merri-bek-tech/events/314941743/)
+- [20 May 2026](https://www.meetup.com/merri-bek-tech/events/314694361/)
 - [17 June 2026](https://www.meetup.com/merri-bek-tech/events/315125470/)
 - [16 July 2026](https://www.meetup.com/merri-bek-tech/events/315125498/)
 - [19 August 2026](https://www.meetup.com/merri-bek-tech/events/315125514/)
