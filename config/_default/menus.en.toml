@@ -78,10 +78,16 @@ parent = "Get Involved"
 # url = "get-involved/projects"
 # parent = "Get Involved"
 
+# [[main]]
+# weight = 2
+# name = "Mastodon"
+# url = "get-involved/mastodon"
+# parent = "Get Involved"
+
 [[main]]
 weight = 2
-name = "Mastodon"
-url = "get-involved/mastodon"
+name = "Chat Rooms"
+url = "get-involved/matrix"
 parent = "Get Involved"
 
 [[main]]
