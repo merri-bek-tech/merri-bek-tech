@@ -8,4 +8,4 @@ If you're involved with a Merri-bek community organisation and interested in non
 
 **Please consider joining our reference group of Merri-bek organisations.** This group provides informal but highly valued input, to steer how we design and set up technologies, and help ensure they meet community needs.
 
-To learn more or express interest, please email partnerships@merri-bek.tech
+To learn more or express interest, please email partnerships@merri-bek.tech or fill in this [Expression of Interest form](https://cloud.cobbletech.fyi/apps/forms/s/o6gyGsKx4z64WgPfyx9mcEwi).

@@ -31,6 +31,12 @@ url = "/about/principles/"
 parent = "About Us"
 
 [[main]]
+weight = 4
+name = "Media"
+url = "/about/media/"
+parent = "About Us"
+
+[[main]]
 weight = 3
 name = "Services"
 url = "services/"
