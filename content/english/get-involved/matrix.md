@@ -37,6 +37,8 @@ We aren't open to the public yet, so you need to ask someone at Merri-bek tech f
 
 First, I suggest you try it on the web. Head over to https://element.merri-bek.chat/ and use the sign up form. You can pick any username that is free on our server, and any password. You'll then be asked for that invitation token that you got in step 1.
 
+**Important Note:** Please don't specify an email address in the optional email field. Our server isn't setup to send emails, and so your signup will be stuck waiting for a verification email. Just leave that field blank.
+
 If that worked, you can start chatting on the web straight away. However, we also recommend you keep that web browser open, and proceed to step 3.
 
 ### Step 3 - installing a matrix chat app
